@@ -1,3 +1,4 @@
-((nil . ((flyspell-mode t)
+; Enable flyspell mode and fill column
+((nil . ((mode . flyspell)
          (fill-column . 78)))
  )
