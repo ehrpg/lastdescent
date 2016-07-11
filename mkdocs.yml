@@ -11,7 +11,9 @@ pages:
   - Space:
       - Space Flight: 'space/flight.md'
       - Stations: 'space/stations.md'
-  - Places:
-      - Earth: 'places/earth.md'
-      - Mars: 'places/mars.md'
-      - Kepler: 'places/kepler.md'
+  - Earth:
+      - Nations: 'places/earth/nations.md'
+  - Mars:
+      - History: 'places/mars/history.md'
+      - First Martian Republic: 'places/mars/fmr.md'
+  - Kepler: 'places/kepler.md'

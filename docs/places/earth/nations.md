@@ -8,7 +8,13 @@ While national culture, language and pride still exists; most people have begun
 to think and associate themselves with the bigger overal national unions.
 
 Earth has grown to roughly 35 billion inhabitants, with most civilisation
-centred around and in huge cities.
+centred around and in huge cities. While advances in agricultural, recycling
+and societal fields has kept pace with the growing population, many scholars
+and researchers agree that Earth is either on the brink, or already heavy
+overpopulated.
+
+Pollution, rising poverty, the destruction of nature and the ever growing power
+of large corporations is an everlasting concern for the citizens of earth.
 
 ## European and Asian Coalition
 
