@@ -1,0 +1,17 @@
+site_name: Last Descent
+repo_url: https://github.com/n0la/lastdescent
+site_author: "@nola"
+
+theme: readthedocs
+
+pages:
+  - Introduction: 'index.md'
+  - Overview: 'overview.md'
+  - Races: 'races.md'
+  - Space:
+      - Space Flight: 'space/flight.md'
+      - Stations: 'space/stations.md'
+  - Places:
+      - Earth: 'places/earth.md'
+      - Mars: 'places/mars.md'
+      - Kepler: 'places/kepler.md'
