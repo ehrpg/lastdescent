@@ -5,6 +5,8 @@ slow. Small vessels are only used to ferry people or cargo within the same
 solar system. With the fastest small vessel, a trip from Earth to Mars still
 takes fifteen days.
 
+These drives are called Feynman Drives, and are high yield ion thrusters.
+
 # FTL
 
 Medium vessels or above are capable of equipping a Warp drive. The standard
@@ -13,8 +15,8 @@ crafts to make the trip from Sol to Alpha Centauri (a distance of roughly 1.3
 parsecs) in roughly twenty eight days. Faster warp drives exist, but they are
 often restricted to large or capital vessels.
 
-Take the vessels FTL speed and multiply it by two. This is the amount of parsecs
-the FTL drive can achieve.
+Take the vessels FTL speed and multiply it by four. This is the amount of
+parsecs per year the FTL drive can achieve.
 
 ## Stasis Chambers
 
