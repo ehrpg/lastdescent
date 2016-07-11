@@ -12,3 +12,4 @@ changes:
 
 - There are no shield generators.
 - There is no wormhole drive or wormhole stations.
+- There are no subspace FTL drives.

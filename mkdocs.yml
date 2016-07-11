@@ -15,5 +15,6 @@ pages:
       - Nations: 'places/earth/nations.md'
   - Mars:
       - History: 'places/mars/history.md'
+      - Planet: 'places/mars/planet.md'
       - First Martian Republic: 'places/mars/fmr.md'
   - Kepler: 'places/kepler.md'
