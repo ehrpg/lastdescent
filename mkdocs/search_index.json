@@ -1,0 +1,289 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "The Last Descent is a campaign setting for Endless Horizons. It expands the\nrules slightly and offers a vast and rich world to set your games in.\n\n\nRule Adaptions\n\n\nThis document describe sthe setting for\n\nEndless Horizons\n. It uses the\n\nrules\n mostly unscathed with the following\nchanges:\n\n\n\n\nThere are no shield generators.\n\n\nThere is no wormhole drive or wormhole stations.\n\n\nThere are no subspace FTL drives.\n\n\n\n\nLicence\n\n\nAs Endless Horizons, The Last Descend is licenced under the\n\nCreative Commons BY-NC-SA\n\nlicence.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/#rule-adaptions", 
+            "text": "This document describe sthe setting for Endless Horizons . It uses the rules  mostly unscathed with the following\nchanges:   There are no shield generators.  There is no wormhole drive or wormhole stations.  There are no subspace FTL drives.", 
+            "title": "Rule Adaptions"
+        }, 
+        {
+            "location": "/#licence", 
+            "text": "As Endless Horizons, The Last Descend is licenced under the Creative Commons BY-NC-SA \nlicence.", 
+            "title": "Licence"
+        }, 
+        {
+            "location": "/overview/", 
+            "text": "Premise\n\n\nWe write the year 2112 and fifty years (2062) ago the corporation Zeiss-Yahari\n(often shortened to ZY) invented the warp drive. A way for humans to travel\ninto the final frontier. Quickly after the advent of this drive, all nations\nincreased their effort in space exploration.\n\n\nMajor Powers\n\n\nThe world of Fallen Descent is ruled by large corporations who profit of the\nvast riches space has to offer. They mine asteroids, supply the ever increasing\ndemand for space faring vessels through big space factories and shipyards and\ncontinue to push for a bigger horizon and profits.\n\n\nEarth meanwhile is ruled by three large factions: The United Americas (UA),\nEuropean and Asian Coalition (EAC) and the African Union (AU). All those three\ntogether represent the interests of Earth as the United Nations.\n\n\nThe most prominent corporations are Zeiss-Yahari, a large German and Japanese\nbased vessel manufacturer, Jengur and Xu corporation are large pharmaceutical\ncorporations based in the African Union, and the PS Holding as the\nlargest bank, credit giver and issuer of insurances.\n\n\nYears prior the invention of the warp drive (in 2053) the United Nations\nestablished a research station on Mars. Since the advent of the warp drive, and\nmore and more people travelling space the station has expanded vastly, and is\nnow considered the first Human colony. The various space stations on mars united\ninto the First Martian Republic or FMR. The FMR is a self governed congressional\nrepublic that rules over Mars and its steadily growing 40 million people.\n\n\nThe FMR and the United Nations together formed a military arm called the\nInter-Planetary Authority (IPA). The main task of the IPA is to police, secure\nand protect Earth, Mars and all their stations and vessels. By number of ships,\nand soldiers the IPA is the largest known military.\n\n\nJust four years ago, a new colony has been founded on Kepler 22b after\nscientific reports have proven that Kepler 22b is indeed capable of sustaining\nhuman life. The new colony is currently being funded by the\nFinal Frontier Conglomerate (FFC), a conglomerate involving both major companies\nthe FMR and the United Nations. The new colony currently houses 15 thousand\npeople in total.\n\n\nSpace Treaty of 2034\n\n\nThe Space Treaty of 2034 regulates the construction, maintenance of space\nstations; provides and handles rules for citizen ship rights for space born\nhumans and also sets various other rules and limitations for space travel.\n\n\nIt extends already existing prohibited activities into space, such as piracy,\nsmuggling, trafficking, slavery. And creates civil rights in outer space, such\nas the right for sanctity of one's own property and privacy.\n\n\nThe treaty also bans all weapons on civilian vessels, except for point defence,\nwhich can be useful to destroy incoming meteors and small debris before they\ncan damage space craft.\n\n\nAfter a rise in space piracy, the ban on weapons on civilian weapons has been\nloosened. As of 2064 captain of a vessel can now obtain a right to arm his\nvessel from the IPA, as long as substantial risk of pirate attacks is present.\n\n\nThe Ceres Amendment of 2070 banned the personal carry of fire arms on space\nstations. Local governments of space stations may however create exceptions to\nthese rules, for example for police forces or military personnel.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/overview/#premise", 
+            "text": "We write the year 2112 and fifty years (2062) ago the corporation Zeiss-Yahari\n(often shortened to ZY) invented the warp drive. A way for humans to travel\ninto the final frontier. Quickly after the advent of this drive, all nations\nincreased their effort in space exploration.", 
+            "title": "Premise"
+        }, 
+        {
+            "location": "/overview/#major-powers", 
+            "text": "The world of Fallen Descent is ruled by large corporations who profit of the\nvast riches space has to offer. They mine asteroids, supply the ever increasing\ndemand for space faring vessels through big space factories and shipyards and\ncontinue to push for a bigger horizon and profits.  Earth meanwhile is ruled by three large factions: The United Americas (UA),\nEuropean and Asian Coalition (EAC) and the African Union (AU). All those three\ntogether represent the interests of Earth as the United Nations.  The most prominent corporations are Zeiss-Yahari, a large German and Japanese\nbased vessel manufacturer, Jengur and Xu corporation are large pharmaceutical\ncorporations based in the African Union, and the PS Holding as the\nlargest bank, credit giver and issuer of insurances.  Years prior the invention of the warp drive (in 2053) the United Nations\nestablished a research station on Mars. Since the advent of the warp drive, and\nmore and more people travelling space the station has expanded vastly, and is\nnow considered the first Human colony. The various space stations on mars united\ninto the First Martian Republic or FMR. The FMR is a self governed congressional\nrepublic that rules over Mars and its steadily growing 40 million people.  The FMR and the United Nations together formed a military arm called the\nInter-Planetary Authority (IPA). The main task of the IPA is to police, secure\nand protect Earth, Mars and all their stations and vessels. By number of ships,\nand soldiers the IPA is the largest known military.  Just four years ago, a new colony has been founded on Kepler 22b after\nscientific reports have proven that Kepler 22b is indeed capable of sustaining\nhuman life. The new colony is currently being funded by the\nFinal Frontier Conglomerate (FFC), a conglomerate involving both major companies\nthe FMR and the United Nations. The new colony currently houses 15 thousand\npeople in total.", 
+            "title": "Major Powers"
+        }, 
+        {
+            "location": "/overview/#space-treaty-of-2034", 
+            "text": "The Space Treaty of 2034 regulates the construction, maintenance of space\nstations; provides and handles rules for citizen ship rights for space born\nhumans and also sets various other rules and limitations for space travel.  It extends already existing prohibited activities into space, such as piracy,\nsmuggling, trafficking, slavery. And creates civil rights in outer space, such\nas the right for sanctity of one's own property and privacy.  The treaty also bans all weapons on civilian vessels, except for point defence,\nwhich can be useful to destroy incoming meteors and small debris before they\ncan damage space craft.  After a rise in space piracy, the ban on weapons on civilian weapons has been\nloosened. As of 2064 captain of a vessel can now obtain a right to arm his\nvessel from the IPA, as long as substantial risk of pirate attacks is present.  The Ceres Amendment of 2070 banned the personal carry of fire arms on space\nstations. Local governments of space stations may however create exceptions to\nthese rules, for example for police forces or military personnel.", 
+            "title": "Space Treaty of 2034"
+        }, 
+        {
+            "location": "/races/", 
+            "text": "Humans\n\n\nHumans are - apart from robots - the most prevalent race in the Last Descent.\nJust like the humans on earth, they come from a wide variety of backgrounds,\ncultures and professions.\n\n\nMartians\n\n\nMartians that leave their home world of the FMR are far and few in between.\nMost of the Martians found scattered in the solar system, are either there\nbecause of Mars related business, or criminals that had their Martian\ncitizenship revoked.\n\n\n\n\nPerk: Dangers of Space\n\n\nFlaw: Low Gravity Physique\n\n\n\n\nSpace Born\n\n\nMany are born and live in the weightlessness of space. These are generally\ncalled \nspace born\n. The bodies of space born humans lack the required strength\nto move and live on celestial bodies with high gravity. People born on space\nstations and space ships also have a knack for fixing things mechanically.\n\n\n\n\nMicro Gravity: 2\n\n\nMechanics: 1\n\n\nPerk: Dangers of Space\n\n\nFlaw: Micro Gravity Physique\n\n\n\n\nEarthers\n\n\nThe richest, or the luckiest, are born on Earth. Their bodies evolve naturally\ncompared to their space born brethren. Planet born have no intrinsic penalties\nor bonuses.\n\n\n\n\nFlaw: Space Adaption Syndrome\n\n\n\n\nRobots\n\n\nRobots are simple, non-sentient droids deployed for manual labour. They are\ncapable of accepting simple commands and usually work - instead of humans - in\ndangerous or hazardous environments. Robots come in as many shapes as there are\njobs and functions that require them.\n\n\nHigh grade corporations, militaries also deploy combat robots equipped with\nvarious weapons.\n\n\nAlmost all robots either use two legs or tracks to move about, and may be\nequipped with additional extremities depending on their configuration.\n\n\nRobots are not intended to be used as playable races.\n\n\nA robot has the same creation rules as humans do, however they are all\nconsidered to have an intelligence of 1. Robots cannot use tools, unless they\nare specifically built for that model. However they are capable of interacting\nwith simple devices, for example, with doors, hatches or air locks.", 
+            "title": "Races"
+        }, 
+        {
+            "location": "/races/#humans", 
+            "text": "Humans are - apart from robots - the most prevalent race in the Last Descent.\nJust like the humans on earth, they come from a wide variety of backgrounds,\ncultures and professions.", 
+            "title": "Humans"
+        }, 
+        {
+            "location": "/races/#martians", 
+            "text": "Martians that leave their home world of the FMR are far and few in between.\nMost of the Martians found scattered in the solar system, are either there\nbecause of Mars related business, or criminals that had their Martian\ncitizenship revoked.   Perk: Dangers of Space  Flaw: Low Gravity Physique", 
+            "title": "Martians"
+        }, 
+        {
+            "location": "/races/#space-born", 
+            "text": "Many are born and live in the weightlessness of space. These are generally\ncalled  space born . The bodies of space born humans lack the required strength\nto move and live on celestial bodies with high gravity. People born on space\nstations and space ships also have a knack for fixing things mechanically.   Micro Gravity: 2  Mechanics: 1  Perk: Dangers of Space  Flaw: Micro Gravity Physique", 
+            "title": "Space Born"
+        }, 
+        {
+            "location": "/races/#earthers", 
+            "text": "The richest, or the luckiest, are born on Earth. Their bodies evolve naturally\ncompared to their space born brethren. Planet born have no intrinsic penalties\nor bonuses.   Flaw: Space Adaption Syndrome", 
+            "title": "Earthers"
+        }, 
+        {
+            "location": "/races/#robots", 
+            "text": "Robots are simple, non-sentient droids deployed for manual labour. They are\ncapable of accepting simple commands and usually work - instead of humans - in\ndangerous or hazardous environments. Robots come in as many shapes as there are\njobs and functions that require them.  High grade corporations, militaries also deploy combat robots equipped with\nvarious weapons.  Almost all robots either use two legs or tracks to move about, and may be\nequipped with additional extremities depending on their configuration.  Robots are not intended to be used as playable races.  A robot has the same creation rules as humans do, however they are all\nconsidered to have an intelligence of 1. Robots cannot use tools, unless they\nare specifically built for that model. However they are capable of interacting\nwith simple devices, for example, with doors, hatches or air locks.", 
+            "title": "Robots"
+        }, 
+        {
+            "location": "/perks/", 
+            "text": "Dangers of Space\n\n\nSpace is a scary place, and there is often just a thin layer of metal between\nyou and certain death. A character with this perk is more calm in dangerous\nenvironments or situations that occour in space.\n\n\nA character with this perk has any penalty because of a hazardous space\nenvironment reduced by one.\n\n\nAdditionally a character with this perk only suffers half the morale damage, in\ncase of failures, catastrophes or problems that arise in the vacuum of space.", 
+            "title": "Perks"
+        }, 
+        {
+            "location": "/perks/#dangers-of-space", 
+            "text": "Space is a scary place, and there is often just a thin layer of metal between\nyou and certain death. A character with this perk is more calm in dangerous\nenvironments or situations that occour in space.  A character with this perk has any penalty because of a hazardous space\nenvironment reduced by one.  Additionally a character with this perk only suffers half the morale damage, in\ncase of failures, catastrophes or problems that arise in the vacuum of space.", 
+            "title": "Dangers of Space"
+        }, 
+        {
+            "location": "/flaws/", 
+            "text": "Micro Gravity Physique\n\n\nPeople porn and raised in micro gravity have a weaker physique than people born\nand raised in gravity. Bone and muscle mass is reduced, and they may not even be\nable to move on planets with high gravity.\n\n\nCharacters with this flaw require twice the amount of movement points on planets\nwith at least half the gravity of Earth.\n\n\nCharacters with this flaw also have a -1 penalty on strength.\n\n\nThrough extended stay on training in low gravity environments (over six months)\nthis perk can be upgraded to \nLow Gravity Physique\n.\n\n\nLow Gravity Physique\n\n\nCharacter that have grown up in low gravity, also need two additional movement\npoints if they wish to move on a planet with a gravity equal or higher than that\nof Earth.\n\n\nSpace Adaption Syndrome\n\n\nPeople born on Earth have acquired bone and muscle mass to counteract gravity.\nDuring extended stays in micro gravity these characters suffer from what is\ncalled space adaption syndrome. In the first two months their immune system gets\nworse, and characters incur a -2 penalty to saving throws against diseases and\nillnesses. In the fourth month their eyes have trouble adapting and they incur\na -1 penalty on perception. After six months their bone and muscle mass have\nslowly deterioted to a point were it effects them heavily. Their incur a -1\npenalty to strength.\n\n\nThese penalties can be cured by returning to a planet with Earth like gravity\nfor an extended visit (two weeks or up to a month).", 
+            "title": "Flaws"
+        }, 
+        {
+            "location": "/flaws/#micro-gravity-physique", 
+            "text": "People porn and raised in micro gravity have a weaker physique than people born\nand raised in gravity. Bone and muscle mass is reduced, and they may not even be\nable to move on planets with high gravity.  Characters with this flaw require twice the amount of movement points on planets\nwith at least half the gravity of Earth.  Characters with this flaw also have a -1 penalty on strength.  Through extended stay on training in low gravity environments (over six months)\nthis perk can be upgraded to  Low Gravity Physique .", 
+            "title": "Micro Gravity Physique"
+        }, 
+        {
+            "location": "/flaws/#low-gravity-physique", 
+            "text": "Character that have grown up in low gravity, also need two additional movement\npoints if they wish to move on a planet with a gravity equal or higher than that\nof Earth.", 
+            "title": "Low Gravity Physique"
+        }, 
+        {
+            "location": "/flaws/#space-adaption-syndrome", 
+            "text": "People born on Earth have acquired bone and muscle mass to counteract gravity.\nDuring extended stays in micro gravity these characters suffer from what is\ncalled space adaption syndrome. In the first two months their immune system gets\nworse, and characters incur a -2 penalty to saving throws against diseases and\nillnesses. In the fourth month their eyes have trouble adapting and they incur\na -1 penalty on perception. After six months their bone and muscle mass have\nslowly deterioted to a point were it effects them heavily. Their incur a -1\npenalty to strength.  These penalties can be cured by returning to a planet with Earth like gravity\nfor an extended visit (two weeks or up to a month).", 
+            "title": "Space Adaption Syndrome"
+        }, 
+        {
+            "location": "/space/flight/", 
+            "text": "Sublight Engines\n\n\nLast Descent limits small vessels to sublight engines, which are incredibly\nslow. Small vessels are only used to ferry people or cargo within the same\nsolar system. With the fastest small vessel, a trip from Earth to Mars still\ntakes fifteen days.\n\n\nThese drives are called Feynman Drives, and are high yield ion thrusters.\n\n\nFTL\n\n\nMedium vessels or above are capable of equipping a Warp drive. The standard\nwarp drive can achieve speeds of up to 18 parsecs per year. This allows these\ncrafts to make the trip from Sol to Alpha Centauri (a distance of roughly 1.3\nparsecs) in roughly twenty eight days. Faster warp drives exist, but they are\noften restricted to large or capital vessels.\n\n\nTake the vessels FTL speed and multiply it by four. This is the amount of\nparsecs per year the FTL drive can achieve.\n\n\nFor example a trip from Sol to Kepler-22 (190 parsecs) would take 10 and a half\nyears with a craft of a speed of 18 parsecs per year.\n\n\nStasis Chambers\n\n\nAll medium vessels that are fitted with an FTL drive, are also fitted with\ncryogenic stasis pods, that allow for long distance flights. A person suspended\nin a stasis chamber only requires a minimum amount of fresh air and nutrition,\nwhich is supplied by the chamber. Ageing is effectively halted, so are the\nsymptoms of most diseases, while being in stasis.", 
+            "title": "Space Flight"
+        }, 
+        {
+            "location": "/space/flight/#sublight-engines", 
+            "text": "Last Descent limits small vessels to sublight engines, which are incredibly\nslow. Small vessels are only used to ferry people or cargo within the same\nsolar system. With the fastest small vessel, a trip from Earth to Mars still\ntakes fifteen days.  These drives are called Feynman Drives, and are high yield ion thrusters.", 
+            "title": "Sublight Engines"
+        }, 
+        {
+            "location": "/space/flight/#ftl", 
+            "text": "Medium vessels or above are capable of equipping a Warp drive. The standard\nwarp drive can achieve speeds of up to 18 parsecs per year. This allows these\ncrafts to make the trip from Sol to Alpha Centauri (a distance of roughly 1.3\nparsecs) in roughly twenty eight days. Faster warp drives exist, but they are\noften restricted to large or capital vessels.  Take the vessels FTL speed and multiply it by four. This is the amount of\nparsecs per year the FTL drive can achieve.  For example a trip from Sol to Kepler-22 (190 parsecs) would take 10 and a half\nyears with a craft of a speed of 18 parsecs per year.", 
+            "title": "FTL"
+        }, 
+        {
+            "location": "/space/flight/#stasis-chambers", 
+            "text": "All medium vessels that are fitted with an FTL drive, are also fitted with\ncryogenic stasis pods, that allow for long distance flights. A person suspended\nin a stasis chamber only requires a minimum amount of fresh air and nutrition,\nwhich is supplied by the chamber. Ageing is effectively halted, so are the\nsymptoms of most diseases, while being in stasis.", 
+            "title": "Stasis Chambers"
+        }, 
+        {
+            "location": "/space/stations/", 
+            "text": "Overview\n\n\nStations of all sorts are common in Last Descent, and range from research,\nmilitary, civilian to mining, processing and manufacturing stations. Their sizes\nvary. All stations can usually be used to resupply fuel, food and water.\n\n\nGovernance\n\n\nMost stations are owned by either a government, corporation or other large\norganisation. Very few are independent, with many however being semi\nindependent from their mother organisation.\n\n\nStations have their own security force, and also some sort of Governor or\nOverseer.\n\n\nBlack Market\n\n\nMost stations also have a black market for illegal goods, such as weapons,\nmunition, drugs or slaves. The black market may also offer other \"business\"\nopportunities such as trafficking, smuggling, protection rackets or\nassassination jobs. Getting into the black market is difficult and different\nfrom station to station. You have to know a guy, who knows a guy...\n\n\nTypes\n\n\nMining Stations\n\n\nThe most common are mining and drilling stations that extract resources, such as\nwater, oxygen or precious metals from asteroids or other stellar objects. Mining\nstations are often closed to civilians as corporations and governments running\nthem do not wish to risk the stations security. Hybrid civilian stations exist,\nthat also extract resources (mostly oxygen and water) for their own use.\n\n\nCivilian Station\n\n\nCivilian stations provide living areas and space for civilians and civilian\nenterprise. People live and work on these stations in various roles. Civilian\nstations are among the biggest of the stations, and are often built near rich\nsources of water and oxygen to be able to sustain large populations.\n\n\nThese stations are used as business headquarters, research stations or even\nas limited production stations.\n\n\nManufacturing Stations\n\n\nThese stations are dedicated to construct large space objects, such as other\nstations or vessels. They are often run by the big corporations are issued with\nthe highest security protocols. Many corporations see their manufacturing\ntechniques and research as their prime corporate secret.\n\n\nResearch Station\n\n\nThe smallest among the space stations, these are mainly used to advance the\nunderstanding of all sciences. Most often they are situated near an interesting\nobject of study (such as close to a planet with unusual atmosphere) or in secret\nlocations in case of top tier classified research.", 
+            "title": "Stations"
+        }, 
+        {
+            "location": "/space/stations/#overview", 
+            "text": "Stations of all sorts are common in Last Descent, and range from research,\nmilitary, civilian to mining, processing and manufacturing stations. Their sizes\nvary. All stations can usually be used to resupply fuel, food and water.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/space/stations/#governance", 
+            "text": "Most stations are owned by either a government, corporation or other large\norganisation. Very few are independent, with many however being semi\nindependent from their mother organisation.  Stations have their own security force, and also some sort of Governor or\nOverseer.", 
+            "title": "Governance"
+        }, 
+        {
+            "location": "/space/stations/#black-market", 
+            "text": "Most stations also have a black market for illegal goods, such as weapons,\nmunition, drugs or slaves. The black market may also offer other \"business\"\nopportunities such as trafficking, smuggling, protection rackets or\nassassination jobs. Getting into the black market is difficult and different\nfrom station to station. You have to know a guy, who knows a guy...", 
+            "title": "Black Market"
+        }, 
+        {
+            "location": "/space/stations/#types", 
+            "text": "", 
+            "title": "Types"
+        }, 
+        {
+            "location": "/space/stations/#mining-stations", 
+            "text": "The most common are mining and drilling stations that extract resources, such as\nwater, oxygen or precious metals from asteroids or other stellar objects. Mining\nstations are often closed to civilians as corporations and governments running\nthem do not wish to risk the stations security. Hybrid civilian stations exist,\nthat also extract resources (mostly oxygen and water) for their own use.", 
+            "title": "Mining Stations"
+        }, 
+        {
+            "location": "/space/stations/#civilian-station", 
+            "text": "Civilian stations provide living areas and space for civilians and civilian\nenterprise. People live and work on these stations in various roles. Civilian\nstations are among the biggest of the stations, and are often built near rich\nsources of water and oxygen to be able to sustain large populations.  These stations are used as business headquarters, research stations or even\nas limited production stations.", 
+            "title": "Civilian Station"
+        }, 
+        {
+            "location": "/space/stations/#manufacturing-stations", 
+            "text": "These stations are dedicated to construct large space objects, such as other\nstations or vessels. They are often run by the big corporations are issued with\nthe highest security protocols. Many corporations see their manufacturing\ntechniques and research as their prime corporate secret.", 
+            "title": "Manufacturing Stations"
+        }, 
+        {
+            "location": "/space/stations/#research-station", 
+            "text": "The smallest among the space stations, these are mainly used to advance the\nunderstanding of all sciences. Most often they are situated near an interesting\nobject of study (such as close to a planet with unusual atmosphere) or in secret\nlocations in case of top tier classified research.", 
+            "title": "Research Station"
+        }, 
+        {
+            "location": "/places/earth/nations/", 
+            "text": "Earth's nations remain mostly unchanged. However the need for larger\ncooperations and budgets for space exploration has driven forward the concept\nof nationes united in one banner.\n\n\nWhile national culture, language and pride still exists; most people have begun\nto think and associate themselves with the bigger overal national unions.\n\n\nEarth has grown to roughly 35 billion inhabitants, with most civilisation\ncentred around and in huge cities. While advances in agricultural, recycling\nand societal fields has kept pace with the growing population, many scholars\nand researchers agree that Earth is either on the brink, or already heavy\noverpopulated.\n\n\nPollution, rising poverty, the destruction of nature and the ever growing power\nof large corporations is an everlasting concern for the citizens of earth.\n\n\nEuropean and Asian Coalition\n\n\nIn 2044 Russia joined, as the last independent country of Europe, the European\nUnion. The EU, with the help of Russia, then began to seek closer ties with\nthe Asian region.  Trade agreements with Japan, China, a newly united Korea,\nAustralia and other nations of Asia catapulted the European Union towards the\nfront of research, space exploration, living standards, social development and\ncorporate cooperation.\n\n\nThis deal bore fruit in 2062 as the just recently merged Zeiss and Yahari\ncorporations created the first viaable faster than light space drive. It was\ncolloquially named after the FTL drive in \nStar Trek\n franchise: Warp.\n\n\nIn the aftermath of this huge breakthrough for the human race, the European\nUnion and its trade partners in Asia created the European and Asian Coalition.\nTogether they signed the Treaty of Moscow, to advance the human race towards\nthe final frontier.\n\n\nThe government form of the EAC has been unchanged from its precursor the\nEuropean Union, and the new countries have simply been 'added' as new members\nof the EAC.\n\n\nUnited Americas\n\n\nThe United Americas consists of all of the nations of the northern as well as\nthe southern Americas. After the trade deals between Europe and Asia, the USA\nsought closer ties to its neighbours and solidified their trade and political\ndeals under the banner of the United Americas.\n\n\nWhile the United Americas have been surpassed as the de-facto superpower of\nEarth by the EAC, they still house some of the most important research\norganisations, corporations and sport together one of the largest economies of\nEarth.\n\n\nIn 2043 the DARPA, together with subcontractors and various research institutes\ndeveloped the Feynman Drive, a new sublight engine that works by only requiring\nelectrical power as fuel. Together with the fusion cores researched at ITER,\nthis allowed NASA and ESA to undertake more advanced space missions. The Feynman\nDrive is still in use on all space vessels.\n\n\nAfrican Union\n\n\nThe African Union achieved economical and societal stability in the early\n21st century. Together with partners in the Arabic, European and Asian world\nit achieved prosperity and a population boom in the 2030s. The African Union\nbecome home to many biological and pharmaceutical corporations and research\ninstitution. By 2033 a vaccine for Malaria has been found, and by 2037 the\nAfrican Union produces the first working generic vaccine for HIV. The\ncorporations responsible for these vaccines, Jengur and Xu Holdings are now\nthe largest on Earth, having taken over most of their competitors in America,\nEurope, and Asia.\n\n\nUnited Nations\n\n\nThe EAC, United Americas and the African Union together still meet and work\ntogether under the mantle of the United Nations. The United Nations is also\nthe banner under which Earth negotiates with independent colonies, such as\nthe FMC or the newly established Kepler Colony.", 
+            "title": "Nations"
+        }, 
+        {
+            "location": "/places/earth/nations/#european-and-asian-coalition", 
+            "text": "In 2044 Russia joined, as the last independent country of Europe, the European\nUnion. The EU, with the help of Russia, then began to seek closer ties with\nthe Asian region.  Trade agreements with Japan, China, a newly united Korea,\nAustralia and other nations of Asia catapulted the European Union towards the\nfront of research, space exploration, living standards, social development and\ncorporate cooperation.  This deal bore fruit in 2062 as the just recently merged Zeiss and Yahari\ncorporations created the first viaable faster than light space drive. It was\ncolloquially named after the FTL drive in  Star Trek  franchise: Warp.  In the aftermath of this huge breakthrough for the human race, the European\nUnion and its trade partners in Asia created the European and Asian Coalition.\nTogether they signed the Treaty of Moscow, to advance the human race towards\nthe final frontier.  The government form of the EAC has been unchanged from its precursor the\nEuropean Union, and the new countries have simply been 'added' as new members\nof the EAC.", 
+            "title": "European and Asian Coalition"
+        }, 
+        {
+            "location": "/places/earth/nations/#united-americas", 
+            "text": "The United Americas consists of all of the nations of the northern as well as\nthe southern Americas. After the trade deals between Europe and Asia, the USA\nsought closer ties to its neighbours and solidified their trade and political\ndeals under the banner of the United Americas.  While the United Americas have been surpassed as the de-facto superpower of\nEarth by the EAC, they still house some of the most important research\norganisations, corporations and sport together one of the largest economies of\nEarth.  In 2043 the DARPA, together with subcontractors and various research institutes\ndeveloped the Feynman Drive, a new sublight engine that works by only requiring\nelectrical power as fuel. Together with the fusion cores researched at ITER,\nthis allowed NASA and ESA to undertake more advanced space missions. The Feynman\nDrive is still in use on all space vessels.", 
+            "title": "United Americas"
+        }, 
+        {
+            "location": "/places/earth/nations/#african-union", 
+            "text": "The African Union achieved economical and societal stability in the early\n21st century. Together with partners in the Arabic, European and Asian world\nit achieved prosperity and a population boom in the 2030s. The African Union\nbecome home to many biological and pharmaceutical corporations and research\ninstitution. By 2033 a vaccine for Malaria has been found, and by 2037 the\nAfrican Union produces the first working generic vaccine for HIV. The\ncorporations responsible for these vaccines, Jengur and Xu Holdings are now\nthe largest on Earth, having taken over most of their competitors in America,\nEurope, and Asia.", 
+            "title": "African Union"
+        }, 
+        {
+            "location": "/places/earth/nations/#united-nations", 
+            "text": "The EAC, United Americas and the African Union together still meet and work\ntogether under the mantle of the United Nations. The United Nations is also\nthe banner under which Earth negotiates with independent colonies, such as\nthe FMC or the newly established Kepler Colony.", 
+            "title": "United Nations"
+        }, 
+        {
+            "location": "/places/earth/vessels/", 
+            "text": "All vessels included in the base rules of Endless Horizons (as listed\n\nhere\n) are considered Earth vessels.\n\n\nJust replace any Wormhole or Hyperspace drive with Warp, and remove any\nshield generators.", 
+            "title": "Vessels"
+        }, 
+        {
+            "location": "/places/mars/history/", 
+            "text": "In 2053, after the Feynman drive allowed for easier space travel within the\nsolar system, ESA and NASA established a science and research station on Mars.\nOther countries and space nations followed suit, and built their own stations\non Mars.\n\n\nWith the advent of the Warp drive in 2062 the space stations grew ever bigger,\nas it was far easier now to transport people, material and resources from and\ntwo Mars. Over the decades that followed the space stations, merged to form\none gigantic space station.\n\n\nOn the 10th of June in 2083 the Martian space station, now housing roughly 8\nmillion people declared independence as the First Martian Republic (FMR). Two\nmonths later, after negotiations with the United Nations the FMR was formerly\nestablished.", 
+            "title": "History"
+        }, 
+        {
+            "location": "/places/mars/planet/", 
+            "text": "Atmosphere\n\n\nThe atmosphere of Mars is considered close to vacuum, with atmospheric\npressures close to 0.6% to that of Earths mean sea level. It is composed\nmostly of carbon dioxide.\n\n\nTemperatures of Mars range between 20 degrees Celsius at the equator, and\nmay hit as low as -153 degrees Celsius at the poles.\n\n\nThe atmosphere of Mars is deadly to unprotected humans, and a space suit is\nrequired to walk the surface.\n\n\nSolar Radiation\n\n\nSolar radiation is a real threat on the surface of Mars. Most space\nsuits can protect a human from the solar radiation during short exposures.\nThe space suits however fail when they are exposed to the suns radiation for\nlonger periods (a week). After which a person will take radiation damage\non Mars' surface.\n\n\nThe mars stations are shielded from the solar radiation.\n\n\nCoronal Mass Ejection\n\n\nAll Martian cities and stations are equipped with a warning system in case\na coronal mass ejection is detected. Since Mars has no magnetic field to\nshield from such events, the inhabitants of Mars are at a great risk of\ndying from radiation poisoning due to coronal mass ejections.\n\n\nOlder stations are not properly shielded, and their citizens have to retreat\nto lower levels of the station to avoid being damaged by the CME. This includes\nthe cities Phobos, Yinghuo and Deimos. The other cities have newer shielding\nwhich protects completely from most CMEs.\n\n\nThere are usually days between the warning of a potential CME reaching Mars,\nand the particles of the CME arriving at Mars.\n\n\nCMEs happen roughly once a week, with some periods of turbulence of the sun\ncausing several CMEs per day.\n\n\nAny person caught on the surface during a CME will die of radiation poisoning.\n\n\nGravity\n\n\nThe low gravity of Mars (roughly 0.4 Earth g) causes health problems in its\ncitizens. Although strict mandatory training regimes, and advances in\nresearch have mostly negated those health problems. Still Martians, and those\nvisiting for longer periods, have to maintain a training regime on Mars to\nretain their muscle and bone mass.\n\n\nMany space born settle on Mars because the intermediate gravity makes it easier\nfor them to adapt to their new home.", 
+            "title": "Planet"
+        }, 
+        {
+            "location": "/places/mars/planet/#atmosphere", 
+            "text": "The atmosphere of Mars is considered close to vacuum, with atmospheric\npressures close to 0.6% to that of Earths mean sea level. It is composed\nmostly of carbon dioxide.  Temperatures of Mars range between 20 degrees Celsius at the equator, and\nmay hit as low as -153 degrees Celsius at the poles.  The atmosphere of Mars is deadly to unprotected humans, and a space suit is\nrequired to walk the surface.", 
+            "title": "Atmosphere"
+        }, 
+        {
+            "location": "/places/mars/planet/#solar-radiation", 
+            "text": "Solar radiation is a real threat on the surface of Mars. Most space\nsuits can protect a human from the solar radiation during short exposures.\nThe space suits however fail when they are exposed to the suns radiation for\nlonger periods (a week). After which a person will take radiation damage\non Mars' surface.  The mars stations are shielded from the solar radiation.", 
+            "title": "Solar Radiation"
+        }, 
+        {
+            "location": "/places/mars/planet/#coronal-mass-ejection", 
+            "text": "All Martian cities and stations are equipped with a warning system in case\na coronal mass ejection is detected. Since Mars has no magnetic field to\nshield from such events, the inhabitants of Mars are at a great risk of\ndying from radiation poisoning due to coronal mass ejections.  Older stations are not properly shielded, and their citizens have to retreat\nto lower levels of the station to avoid being damaged by the CME. This includes\nthe cities Phobos, Yinghuo and Deimos. The other cities have newer shielding\nwhich protects completely from most CMEs.  There are usually days between the warning of a potential CME reaching Mars,\nand the particles of the CME arriving at Mars.  CMEs happen roughly once a week, with some periods of turbulence of the sun\ncausing several CMEs per day.  Any person caught on the surface during a CME will die of radiation poisoning.", 
+            "title": "Coronal Mass Ejection"
+        }, 
+        {
+            "location": "/places/mars/planet/#gravity", 
+            "text": "The low gravity of Mars (roughly 0.4 Earth g) causes health problems in its\ncitizens. Although strict mandatory training regimes, and advances in\nresearch have mostly negated those health problems. Still Martians, and those\nvisiting for longer periods, have to maintain a training regime on Mars to\nretain their muscle and bone mass.  Many space born settle on Mars because the intermediate gravity makes it easier\nfor them to adapt to their new home.", 
+            "title": "Gravity"
+        }, 
+        {
+            "location": "/places/mars/fmr/", 
+            "text": "The First Martian Republic (often shortened to just Mars or the Republic) owns\nand spans the entire colony of Mars. With the A central space station,\nMars Prime, initially built by ESA serves as the capital.  Underground\nrail systems connect the other space stations together.\n\n\nBy 2112 roughly 40 million people call the FMR their home, with an additional\nfive million people visiting the FMR yearly.\n\n\nThe FMR is congressional republic, headed by a largely representative president.\n\n\nCities\n\n\nThe FMR consists of six cities (or hubs) that were based upon the initial\nspace stations landed onto Mars. The stations are all tubular, and split into\ndifferent highly specialised sections. For example every city has an\nagricultural section, various interconnected tubular stations and ports\nresponsible for growing and processing food. Other sections are responsible\nfor civilian housing, mining the Martian crust, or housing research\nlaboratories.\n\n\nNone of the six cities are specialised in one area, and each is theoretically\ncapable of sustaining itself. At the centre of hubs lies the biggest: Mars Prime\nwhich houses roughly 10 million people.\n\n\nThe six cities are: Mars Prime, Phobos, Deimos, Dawn, Yinghuo and Mangalyaan.\nAll of these are connected through underground rail systems.\n\n\nZond Incident\n\n\nA seventh city, Zond was destroyed in 2093 by asteroid impacts, which damaged\ntheir stations hull venting their atmosphere. The incident killed 1.4 million\npeople. The underground railway to Zond was destroyed by secondary explosions,\ncausing the inhabitants of Zond to be trapped on the destroyed station.\n\n\nOverland craft from Zond and Dawn (the nearest hub) managed to evacuate twenty\nthousand people before the station was effectively destroyed by secondary\nexplosions.\n\n\nLaws \n Society\n\n\nThe FMR bans all civilian fire arm use, and heavily limits their use within\nMartian Police Forces (MPF) so as not to damage the space station, or even\nrisk a breach of the hull.\n\n\nAll visitors of the FMR are restricted to the hub they have business in, while\ncitizens of the FMR can travel freely; but must have a move from one city to\nanother approved by the authorities.\n\n\nCitizens of the FMR are required to do a mandatory six year community service,\nto aid and benefit the colony and its advance. Boys and girls are drafted after\nschool at the age of 16, after their six year community service they are free to\nchoose were to live and work. Community service ranges wildly, and can also\ninclude military service. The community service is also required for everyone\nwho wishes to become a citizen of Mars. Aborting the community service can cause\none to lose his Martian citizenship.\n\n\nThe First Martian Republic has a strong incentive system in place however, which\nresults in the FMR having one of the lowest expat rate in the solar system.\n\n\nCitizens of the Martian Republic enjoy liberal rights, while the economy is more\nclosely regulated towards the growth of the colony.\n\n\nForeign Relations\n\n\nWhile the FMR officially holds good relationships with Earth, many people from\nEarth see the people and citizens of Mars as blended ideologists with an\nunreachable goal: terra forming Mars.\n\n\nMany from Earth also still believe that the FMR owes them, for their space\nprograms that effectively gave birth to the FMR in the first place. However,\nwith the independence treaty of 2083 the FMR was officially absolved from\nsuch claims.\n\n\nSpace Station OSIRIS\n\n\nThe FMR has one space station in orbit of Mars called OSIRIS, which is often\ncited as the eighth city of Mars. The station is responsible for ship\nmaintenance, docking and also houses a military substation of the IPA.\n\n\nTerraforming\n\n\nWhile it is currently not yet possible to terra form planets, the FMR invests\nheavily into that research. The goal is to one day make the surface of the\nplanet liveable. Many scholars and researchers believe this to be impossible\nhowever, as Mars lacks a magnetic field that would protect an atmosphere from\nbeing blasted away by solar radiation.\n\n\nRole in the IPA\n\n\nThe First Martian Republic, alongside with the Earths United Nations, is one\nof main contributor to the Inter-Planetary Authority.\n\n\nMars is known as a builder of high quality and high tech space vessels, and the\nmain bulk of the IPA fleet is built on Mars.", 
+            "title": "First Martian Republic"
+        }, 
+        {
+            "location": "/places/mars/fmr/#cities", 
+            "text": "The FMR consists of six cities (or hubs) that were based upon the initial\nspace stations landed onto Mars. The stations are all tubular, and split into\ndifferent highly specialised sections. For example every city has an\nagricultural section, various interconnected tubular stations and ports\nresponsible for growing and processing food. Other sections are responsible\nfor civilian housing, mining the Martian crust, or housing research\nlaboratories.  None of the six cities are specialised in one area, and each is theoretically\ncapable of sustaining itself. At the centre of hubs lies the biggest: Mars Prime\nwhich houses roughly 10 million people.  The six cities are: Mars Prime, Phobos, Deimos, Dawn, Yinghuo and Mangalyaan.\nAll of these are connected through underground rail systems.", 
+            "title": "Cities"
+        }, 
+        {
+            "location": "/places/mars/fmr/#zond-incident", 
+            "text": "A seventh city, Zond was destroyed in 2093 by asteroid impacts, which damaged\ntheir stations hull venting their atmosphere. The incident killed 1.4 million\npeople. The underground railway to Zond was destroyed by secondary explosions,\ncausing the inhabitants of Zond to be trapped on the destroyed station.  Overland craft from Zond and Dawn (the nearest hub) managed to evacuate twenty\nthousand people before the station was effectively destroyed by secondary\nexplosions.", 
+            "title": "Zond Incident"
+        }, 
+        {
+            "location": "/places/mars/fmr/#laws-society", 
+            "text": "The FMR bans all civilian fire arm use, and heavily limits their use within\nMartian Police Forces (MPF) so as not to damage the space station, or even\nrisk a breach of the hull.  All visitors of the FMR are restricted to the hub they have business in, while\ncitizens of the FMR can travel freely; but must have a move from one city to\nanother approved by the authorities.  Citizens of the FMR are required to do a mandatory six year community service,\nto aid and benefit the colony and its advance. Boys and girls are drafted after\nschool at the age of 16, after their six year community service they are free to\nchoose were to live and work. Community service ranges wildly, and can also\ninclude military service. The community service is also required for everyone\nwho wishes to become a citizen of Mars. Aborting the community service can cause\none to lose his Martian citizenship.  The First Martian Republic has a strong incentive system in place however, which\nresults in the FMR having one of the lowest expat rate in the solar system.  Citizens of the Martian Republic enjoy liberal rights, while the economy is more\nclosely regulated towards the growth of the colony.", 
+            "title": "Laws &amp; Society"
+        }, 
+        {
+            "location": "/places/mars/fmr/#foreign-relations", 
+            "text": "While the FMR officially holds good relationships with Earth, many people from\nEarth see the people and citizens of Mars as blended ideologists with an\nunreachable goal: terra forming Mars.  Many from Earth also still believe that the FMR owes them, for their space\nprograms that effectively gave birth to the FMR in the first place. However,\nwith the independence treaty of 2083 the FMR was officially absolved from\nsuch claims.", 
+            "title": "Foreign Relations"
+        }, 
+        {
+            "location": "/places/mars/fmr/#space-station-osiris", 
+            "text": "The FMR has one space station in orbit of Mars called OSIRIS, which is often\ncited as the eighth city of Mars. The station is responsible for ship\nmaintenance, docking and also houses a military substation of the IPA.", 
+            "title": "Space Station OSIRIS"
+        }, 
+        {
+            "location": "/places/mars/fmr/#terraforming", 
+            "text": "While it is currently not yet possible to terra form planets, the FMR invests\nheavily into that research. The goal is to one day make the surface of the\nplanet liveable. Many scholars and researchers believe this to be impossible\nhowever, as Mars lacks a magnetic field that would protect an atmosphere from\nbeing blasted away by solar radiation.", 
+            "title": "Terraforming"
+        }, 
+        {
+            "location": "/places/mars/fmr/#role-in-the-ipa", 
+            "text": "The First Martian Republic, alongside with the Earths United Nations, is one\nof main contributor to the Inter-Planetary Authority.  Mars is known as a builder of high quality and high tech space vessels, and the\nmain bulk of the IPA fleet is built on Mars.", 
+            "title": "Role in the IPA"
+        }, 
+        {
+            "location": "/places/kepler/planet/", 
+            "text": "", 
+            "title": "Planet"
+        }, 
+        {
+            "location": "/places/stations/rhea/", 
+            "text": "The station on Saturn's moon Rhea is one of the newest and most modern mining\nstations of Sol. It is owned by the United Nations of Earth, and extracts\nminerals, such as copper, iron and nickle for use in ship building.\n\n\nHistory\n\n\nIt's construction started 2093 and was finished by 2098. It is governed by\nthe IPA, which also manages Rhea Station's security.\n\n\nLaws\n\n\nIt is open to civilian visitors, and it can house up to 600 000 people. Many\ninternational trading corporations have an office or outlet on Rhea Station.\n\n\nRhea Station itself is considered crime free, with little or no black market\nactivity, such as smuggling or trafficking.\n\n\nAs on all IPA stations, bearing of arms is strictly prohibited, except for IPA\npersonnel.\n\n\nGovernment\n\n\nThe station is run by the IPA Captain Zheng Shi. The station follows military\nstyle ranks and hierarchy, with all civilians being considered below the rank\nof private. Failure to follow orders by a superior IPA officer can be punished\nby fine, prison or even a ban from the station.", 
+            "title": "Rhea"
+        }, 
+        {
+            "location": "/places/stations/rhea/#history", 
+            "text": "It's construction started 2093 and was finished by 2098. It is governed by\nthe IPA, which also manages Rhea Station's security.", 
+            "title": "History"
+        }, 
+        {
+            "location": "/places/stations/rhea/#laws", 
+            "text": "It is open to civilian visitors, and it can house up to 600 000 people. Many\ninternational trading corporations have an office or outlet on Rhea Station.  Rhea Station itself is considered crime free, with little or no black market\nactivity, such as smuggling or trafficking.  As on all IPA stations, bearing of arms is strictly prohibited, except for IPA\npersonnel.", 
+            "title": "Laws"
+        }, 
+        {
+            "location": "/places/stations/rhea/#government", 
+            "text": "The station is run by the IPA Captain Zheng Shi. The station follows military\nstyle ranks and hierarchy, with all civilians being considered below the rank\nof private. Failure to follow orders by a superior IPA officer can be punished\nby fine, prison or even a ban from the station.", 
+            "title": "Government"
+        }
+    ]
+}
