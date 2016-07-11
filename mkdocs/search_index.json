@@ -266,23 +266,38 @@
             "title": "Planet"
         }, 
         {
+            "location": "/places/stations/ceres/", 
+            "text": "History\n\n\nCeres Station, the largest civilian space station in the solar system, houses\n1.2 million people. It was established 2071 and was the first successfull\nbigger space station to be built and deployed in space.\n\n\nIn 2080 a decree was issued by Earth to reduce the population of Ceres station\nfrom 1 million down to 500 000. Aging station technology and a business deficit\nwere given as the reason for this move. The Government of Ceres was initially\nhesitant to relocate the people, and dragged the execution of the decree out\nby bureaucratic means. In late 2080 Earth, after several threats, then lowered\nthe water the station receives in a move to force people off the station. This\nbackfired however, as the civilian populace of Ceres rioted. After initial\nattempts to quench the riots with force the United Nation came under heavy\ncriticism. After prolonged demonstration and riots both on Ceres station and\non Earth in support of Ceres, the United Nations nullified the decree and\ngranted Ceres station semi-independence.\n\n\nGovernment\n\n\nThe station is government by Earth but has achieved semi independence from Earth\nafter civilian riots broke out during the 2080 population decree fiasco.\nlowered significantly. The people did not wish to leave however, and the\nGovernor of Ceres Station - Elisabeth Avroy - renegotiated with Earth.\n\n\nThe elected governor of Ceres station can now enact local laws, and has its\nown police force to enforce those laws. While the IPA still provides external\nsecurity to the ships docking at Ceres station.\n\n\nEconomy\n\n\nCeres Station lives of mining Ceres for minerals and water, which it then\ntrades with other stations, Earth and Mars.\n\n\nAfter the riots of 2080 the station got into social disarray, and criminal\nelements took hold. Various pirate factions, and other organised crime\norganisation front businesses on Ceres station to conclude their illegal\ndeals.", 
+            "title": "Ceres"
+        }, 
+        {
+            "location": "/places/stations/ceres/#history", 
+            "text": "Ceres Station, the largest civilian space station in the solar system, houses\n1.2 million people. It was established 2071 and was the first successfull\nbigger space station to be built and deployed in space.  In 2080 a decree was issued by Earth to reduce the population of Ceres station\nfrom 1 million down to 500 000. Aging station technology and a business deficit\nwere given as the reason for this move. The Government of Ceres was initially\nhesitant to relocate the people, and dragged the execution of the decree out\nby bureaucratic means. In late 2080 Earth, after several threats, then lowered\nthe water the station receives in a move to force people off the station. This\nbackfired however, as the civilian populace of Ceres rioted. After initial\nattempts to quench the riots with force the United Nation came under heavy\ncriticism. After prolonged demonstration and riots both on Ceres station and\non Earth in support of Ceres, the United Nations nullified the decree and\ngranted Ceres station semi-independence.", 
+            "title": "History"
+        }, 
+        {
+            "location": "/places/stations/ceres/#government", 
+            "text": "The station is government by Earth but has achieved semi independence from Earth\nafter civilian riots broke out during the 2080 population decree fiasco.\nlowered significantly. The people did not wish to leave however, and the\nGovernor of Ceres Station - Elisabeth Avroy - renegotiated with Earth.  The elected governor of Ceres station can now enact local laws, and has its\nown police force to enforce those laws. While the IPA still provides external\nsecurity to the ships docking at Ceres station.", 
+            "title": "Government"
+        }, 
+        {
+            "location": "/places/stations/ceres/#economy", 
+            "text": "Ceres Station lives of mining Ceres for minerals and water, which it then\ntrades with other stations, Earth and Mars.  After the riots of 2080 the station got into social disarray, and criminal\nelements took hold. Various pirate factions, and other organised crime\norganisation front businesses on Ceres station to conclude their illegal\ndeals.", 
+            "title": "Economy"
+        }, 
+        {
             "location": "/places/stations/rhea/", 
-            "text": "The station on Saturn's moon Rhea is one of the newest and most modern mining\nstations of Sol. It is owned by the United Nations of Earth, and extracts\nminerals, such as copper, iron and nickle for use in ship building.\n\n\nHistory\n\n\nIt's construction started 2093 and was finished by 2098. It is governed by\nthe IPA, which also manages Rhea Station's security.\n\n\nLaws\n\n\nIt is open to civilian visitors, and it can house up to 600 000 people. Many\ninternational trading corporations have an office or outlet on Rhea Station.\n\n\nRhea Station itself is considered crime free, with little or no black market\nactivity, such as smuggling or trafficking.\n\n\nAs on all IPA stations, bearing of arms is strictly prohibited, except for IPA\npersonnel.\n\n\nGovernment\n\n\nThe station is run by the IPA Captain Zheng Shi. The station follows military\nstyle ranks and hierarchy, with all civilians being considered below the rank\nof private. Failure to follow orders by a superior IPA officer can be punished\nby fine, prison or even a ban from the station.", 
+            "text": "The station on Saturn's moon Rhea is one of the newest and most modern mining\nstations of Sol. It is owned by the United Nations of Earth, and extracts\nminerals, such as copper, iron and nickle for use in ship building.\n\n\nHistory\n\n\nIt's construction started 2093 and was finished by 2098. It is governed by\nthe IPA, which also manages Rhea Station's security. It has been steadily\nexpanded since it started production.\n\n\nGovernment\n\n\nThe station is run by the IPA Captain Zheng Shi. The station follows military\nstyle ranks and hierarchy, with all civilians being considered below the rank\nof private. Failure to follow orders by a superior IPA officer can be punished\nby fine, prison or even a ban from the station.\n\n\nIt is open to civilian visitors, and it can house up to 600 000 people. Many\ninternational trading corporations have an office or outlet on Rhea Station.\n\n\nRhea Station itself is considered crime free, with little or no black market\nactivity, such as smuggling or trafficking.", 
             "title": "Rhea"
         }, 
         {
             "location": "/places/stations/rhea/#history", 
-            "text": "It's construction started 2093 and was finished by 2098. It is governed by\nthe IPA, which also manages Rhea Station's security.", 
+            "text": "It's construction started 2093 and was finished by 2098. It is governed by\nthe IPA, which also manages Rhea Station's security. It has been steadily\nexpanded since it started production.", 
             "title": "History"
         }, 
         {
-            "location": "/places/stations/rhea/#laws", 
-            "text": "It is open to civilian visitors, and it can house up to 600 000 people. Many\ninternational trading corporations have an office or outlet on Rhea Station.  Rhea Station itself is considered crime free, with little or no black market\nactivity, such as smuggling or trafficking.  As on all IPA stations, bearing of arms is strictly prohibited, except for IPA\npersonnel.", 
-            "title": "Laws"
-        }, 
-        {
             "location": "/places/stations/rhea/#government", 
-            "text": "The station is run by the IPA Captain Zheng Shi. The station follows military\nstyle ranks and hierarchy, with all civilians being considered below the rank\nof private. Failure to follow orders by a superior IPA officer can be punished\nby fine, prison or even a ban from the station.", 
+            "text": "The station is run by the IPA Captain Zheng Shi. The station follows military\nstyle ranks and hierarchy, with all civilians being considered below the rank\nof private. Failure to follow orders by a superior IPA officer can be punished\nby fine, prison or even a ban from the station.  It is open to civilian visitors, and it can house up to 600 000 people. Many\ninternational trading corporations have an office or outlet on Rhea Station.  Rhea Station itself is considered crime free, with little or no black market\nactivity, such as smuggling or trafficking.", 
             "title": "Government"
         }
     ]

@@ -106,6 +106,12 @@
     
         
     <url>
+     <loc>None/places/stations/ceres/</loc>
+     <lastmod>2016-07-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>None/places/stations/rhea/</loc>
      <lastmod>2016-07-11</lastmod>
      <changefreq>daily</changefreq>
