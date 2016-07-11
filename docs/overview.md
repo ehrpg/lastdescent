@@ -57,3 +57,7 @@ can damage space craft.
 After a rise in space piracy, the ban on weapons on civilian weapons has been
 loosened. As of 2064 captain of a vessel can now obtain a right to arm his
 vessel from the IPA, as long as substantial risk of pirate attacks is present.
+
+The Ceres Amendment of 2070 banned the personal carry of fire arms on space
+stations. Local governments of space stations may however create exceptions to
+these rules, for example for police forces or military personnel.
