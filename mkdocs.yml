@@ -24,4 +24,5 @@ pages:
   - Kepler:
       - Planet: 'places/kepler/planet.md'
   - Stations:
+      - Ceres: 'places/stations/ceres.md'
       - Rhea: 'places/stations/rhea.md'
