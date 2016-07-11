@@ -7,7 +7,10 @@ theme: readthedocs
 pages:
   - Introduction: 'index.md'
   - Overview: 'overview.md'
-  - Races: 'races.md'
+  - 'Character Options':
+    - Races: 'races.md'
+    - Perks: 'perks.md'
+    - Flaws: 'flaws.md'
   - Space:
       - Space Flight: 'space/flight.md'
       - Stations: 'space/stations.md'

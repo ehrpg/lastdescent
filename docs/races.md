@@ -4,6 +4,16 @@ Humans are - apart from robots - the most prevalent race in the Last Descent.
 Just like the humans on earth, they come from a wide variety of backgrounds,
 cultures and professions.
 
+## Martians
+
+Martians that leave their home world of the FMR are far and few in between.
+Most of the Martians found scattered in the solar system, are either there
+because of Mars related business, or criminals that had their Martian
+citizenship revoked.
+
+- Perk: Dangers of Space
+- Flaw: Low Gravity Physique
+
 ## Space Born
 
 Many are born and live in the weightlessness of space. These are generally
@@ -11,30 +21,18 @@ called _space born_. The bodies of space born humans lack the required strength
 to move and live on celestial bodies with high gravity. People born on space
 stations and space ships also have a knack for fixing things mechanically.
 
-- -1 Strength
-- Micro Gravity: 3
-- Mechanics: 2
-- Flaw: Weak Physique
+- Micro Gravity: 2
+- Mechanics: 1
+- Perk: Dangers of Space
+- Flaw: Micro Gravity Physique
 
-_Weak Physique (Flaw)_: Requires twice as many movement points on Planets with
-gravity greater then half of Earth's.
+## Earthers
 
-## Earth Born
-
-The richest, or the luckiest, are born on Earth or an Earth like planet. Their
-bodies evolve naturally compared to their space born brethren. Planet born have
-no intrinsic penalties or bonuses.
+The richest, or the luckiest, are born on Earth. Their bodies evolve naturally
+compared to their space born brethren. Planet born have no intrinsic penalties
+or bonuses.
 
 - Flaw: Space Adaption Syndrome
-
-_Space Adaption Syndrome (Flaw)_: Earth born humans that are exposed to micro
-gravity for a long time (three months or more), suffer from
-_space adaption syndrome_, which gradually gets worse. A first the person
-suffers a -1 penalty against all checks involving sickness or illness. Then
-their bones lose mass and after five months they lose one strength rank, and
-then after another month they lose one perception rank as their eyesight gets
-worse. These penalties can be removed by an extended stay (2 weeks) on a planet
-or station with Earth like gravity.
 
 # Robots
 
@@ -47,4 +45,11 @@ High grade corporations, militaries also deploy combat robots equipped with
 various weapons.
 
 Almost all robots either use two legs or tracks to move about, and may be
-equipped with additional
+equipped with additional extremities depending on their configuration.
+
+Robots are not intended to be used as playable races.
+
+A robot has the same creation rules as humans do, however they are all
+considered to have an intelligence of 1. Robots cannot use tools, unless they
+are specifically built for that model. However they are capable of interacting
+with simple devices, for example, with doors, hatches or air locks.
