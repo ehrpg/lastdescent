@@ -16,6 +16,7 @@ pages:
       - Stations: 'space/stations.md'
   - Earth:
       - Nations: 'places/earth/nations.md'
+      - Vessels: 'places/earth/vessels.md'
   - Mars:
       - History: 'places/mars/history.md'
       - Planet: 'places/mars/planet.md'
