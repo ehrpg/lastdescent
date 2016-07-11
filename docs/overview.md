@@ -39,3 +39,21 @@ human life. The new colony is currently being funded by the
 Final Frontier Conglomerate (FFC), a conglomerate involving both major companies
 the FMR and the United Nations. The new colony currently houses 15 thousand
 people in total.
+
+# Space Treaty of 2034
+
+The Space Treaty of 2034 regulates the construction, maintenance of space
+stations; provides and handles rules for citizen ship rights for space born
+humans and also sets various other rules and limitations for space travel.
+
+It extends already existing prohibited activities into space, such as piracy,
+smuggling, trafficking, slavery. And creates civil rights in outer space, such
+as the right for sanctity of one's own property and privacy.
+
+The treaty also bans all weapons on civilian vessels, except for point defence,
+which can be useful to destroy incoming meteors and small debris before they
+can damage space craft.
+
+After a rise in space piracy, the ban on weapons on civilian weapons has been
+loosened. As of 2064 captain of a vessel can now obtain a right to arm his
+vessel from the IPA, as long as substantial risk of pirate attacks is present.

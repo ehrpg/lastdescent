@@ -21,4 +21,7 @@ pages:
       - History: 'places/mars/history.md'
       - Planet: 'places/mars/planet.md'
       - First Martian Republic: 'places/mars/fmr.md'
-  - Kepler: 'places/kepler.md'
+  - Kepler:
+      - Planet: 'places/kepler/planet.md'
+  - Stations:
+      - Rhea: 'places/stations/rhea.md'
