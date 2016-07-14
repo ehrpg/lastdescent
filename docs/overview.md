@@ -37,7 +37,7 @@ Just four years ago, a new colony has been founded on Kepler 22b after
 scientific reports have proven that Kepler 22b is indeed capable of sustaining
 human life. The new colony is currently being funded by the
 Final Frontier Conglomerate (FFC), a conglomerate involving both major companies
-the FMR and the United Nations. The new colony currently houses 15 thousand
+the FMR and the United Nations. The new colony currently houses 32000
 people in total.
 
 # Space Treaty of 2034
@@ -55,7 +55,7 @@ which can be useful to destroy incoming meteors and small debris before they
 can damage space craft.
 
 After a rise in space piracy, the ban on weapons on civilian weapons has been
-loosened. As of 2064 captain of a vessel can now obtain a right to arm his
+loosened. As of 2064 a captain of a vessel can now obtain a right to arm his
 vessel from the IPA, as long as substantial risk of pirate attacks is present.
 
 The Ceres Amendment of 2070 banned the personal carry of fire arms on space
