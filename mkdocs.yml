@@ -14,6 +14,7 @@ pages:
   - Space:
       - Space Flight: 'space/flight.md'
       - Stations: 'space/stations.md'
+      - Treaty of 2038: 'space/laws.md'
   - Earth:
       - Nations: 'places/earth/nations.md'
       - Vessels: 'places/earth/vessels.md'
