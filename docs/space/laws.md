@@ -63,7 +63,8 @@ licence.
 A 22d grants access to automatic weapons, and other weapons tiered as "military
 grade", such as explosives. It is usually not issued to civilians, but instead
 to entire organisations, such as corporations or private military contractors.
-It costs 500000 credits to acquire.
+It costs 500000 credits to acquire for an individual licence. The cost of a
+licence for an entire crew, organisation or corporation are usually much higher.
 
 All of these permits can be revoked by the IPA, and temporary bans can enacted
 that overrule these permits.
