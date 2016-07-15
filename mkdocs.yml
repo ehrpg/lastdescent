@@ -22,6 +22,7 @@ pages:
       - History: 'places/mars/history.md'
       - Planet: 'places/mars/planet.md'
       - First Martian Republic: 'places/mars/fmr.md'
+      - Vessels: 'places/mars/vessels.md'
   - Kepler:
       - Planet: 'places/kepler/planet.md'
       - History: 'places/kepler/history.md'
