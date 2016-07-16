@@ -1,4 +1,6 @@
-# History
+# Ceres
+
+## History
 
 Ceres Station, the largest civilian space station in the solar system, houses
 1.2 million people. It was established 2071 and was the first successfull
@@ -16,7 +18,7 @@ criticism. After prolonged demonstration and riots both on Ceres station and
 on Earth in support of Ceres, the United Nations nullified the decree and
 granted Ceres station semi-independence.
 
-# Government
+## Government
 
 The station is government by Earth but has achieved semi independence from Earth
 after civilian riots broke out during the 2080 population decree fiasco.
@@ -27,7 +29,7 @@ The elected governor of Ceres station can now enact local laws, and has its
 own police force to enforce those laws. While the IPA still provides external
 security to the ships docking at Ceres station.
 
-# Economy
+## Economy
 
 Ceres Station lives of mining Ceres for minerals and water, which it then
 trades with other stations, Earth and Mars.
