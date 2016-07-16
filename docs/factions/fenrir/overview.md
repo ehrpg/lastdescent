@@ -27,6 +27,12 @@ mercenaries of Morgenstern Inc. used force resulting in the death of over a
 hundred protesters. After this incident the Morgenstern Inc. renamed itself
 yet again, taking it's current name Fenrir.
 
+## Logo
+
+Personnel and ships of Fenrir can be identified by their logo: A large wolf
+howling to the stars. They use this logo on all ships and on their soldiers
+uniforms.
+
 ## Operation
 
 Fenrir works for everyone that is willing to the price, so as long as the
