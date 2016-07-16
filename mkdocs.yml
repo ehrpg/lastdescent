@@ -30,6 +30,7 @@ pages:
   - Stations:
       - Ceres: 'places/stations/ceres.md'
       - Rhea: 'places/stations/rhea.md'
+      - Venus: 'places/stations/venus.md'
   - Factions:
       - Black Dawn: 'factions/darkdawn.md'
       - IPA: 'factions/ipa.md'
