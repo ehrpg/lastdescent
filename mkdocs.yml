@@ -35,7 +35,7 @@ pages:
   - Factions:
       - Dark Dawn: 'factions/darkdawn.md'
       - IPA: 'factions/ipa.md'
-      - Organised Crime: 'faction/crime.md'
+      - Organised Crime: 'factions/crime.md'
       - Syndicate: 'factions/syndicate.md'
       - Zeiss-Yahari: 'factions/zy.md'
   - Fenrir:
