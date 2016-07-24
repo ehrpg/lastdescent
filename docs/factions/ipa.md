@@ -26,6 +26,13 @@ oversees and manages the amendments that made it possible for civilians to
 bear arms. The IPA is responsible for issuing and controlling civilian fire arm
 licences.
 
+## Bounties
+
+The IPA is widely known to give out bounties for wanted criminals. Such
+information, in a form of a most-wanted list, is publicly available. The IPA
+awards bounties to those who give crucial evidence that leads to the conviction
+of these criminals, or even if they are turned in alive and directly to the IPA.
+
 ## Funding
 
 Most of the funding for the IPA comes from the United Nations of Earth, with the
@@ -39,7 +46,7 @@ frigates (medium vessels). The IPA is the operator of the largest fleet in the
 systems. Furthermore the IPA has more than three million active personnel on
 duty at all times.
 
-## Command Carrier
+### Command Carrier
 
 The command carries are the biggest and most powerful ships of the IPA. They
 are roughly 700 metres long and can house a crew of up to twenty thousand
