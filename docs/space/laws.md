@@ -28,12 +28,12 @@ the station.
 
 With the rise of space piracy, the restrictions on weapons on civilian vessels
 was loosened. If a vessel is considerable danger of being raided by pirates or
-other lawless factions, the captain can apply for a Form 12a, allowing him to
-arm his vessel.
+other lawless factions, the captain can apply for a form (or permit) 12a,
+allowing him to arm his vessel.
 
 Acquiring a form 12a costs 500 000 credits. Access to a Form 12 is not a right.
 
-The form can is not restricted to the captain, and may also be held by any
+The form is not restricted to the captain, and may also be held by any
 permanent crew under the captains employment; such as a weapons expert.
 
 The a Variant of this form - Form 12a - allows for all weapons to be mounted on
@@ -44,7 +44,7 @@ This form can be revoked by the IPA, upon which it has to be repurchased.
 Carrying non-disabled arms on a vessel without this Form is a major offence,
 usually punished by several years of prison.
 
-### Permit 22
+### Weapon permits
 
 Permit 22 allows the right to bear arms to civilians. It is necessary to legally
 own and carry firearms on board of vessels, space stations and colonies. The
@@ -53,18 +53,19 @@ firearms.
 
 Permit 22a covers the open carrying of handguns (such as pistols and revolvers).
 22b is the concealed carry permit extensions to 22a. A 22a costs 50000 and a
-22b costs an additional 20000. It is an individual licence, but access to a 22a
-is a right.
+22b costs an additional 20000. These are individual licences.
 
-Permit 22c includes semi automatic rifles, shotguns and other semi automatic
-large calibre weapons. It costs 100000 credits to acquire. It is an individual
-licence.
+Permit 31a includes semi automatic PDWs, rifles, shotguns and other semi
+automatic large calibre weapons. It costs 100000 credits to acquire. It is an
+individual licence, and allows owning these guns. But a 31b is required to
+carry these guns on a station. 31b costs an additional 100000 credits.
 
-A 22d grants access to automatic weapons, and other weapons tiered as "military
-grade", such as explosives. It is usually not issued to civilians, but instead
-to entire organisations, such as corporations or private military contractors.
-It costs 500000 credits to acquire for an individual licence. The cost of a
-licence for an entire crew, organisation or corporation are usually much higher.
+A permit 39 grants access to automatic weapons, and other weapons tiered as
+"military grade", such as explosives. It is usually not issued to civilians,
+but instead to entire organisations, such as corporations or private military
+contractors.  It costs 500000 credits to acquire for an individual
+licence. The cost of a licence for an entire crew, organisation or corporation
+are usually much higher.
 
 All of these permits can be revoked by the IPA, and temporary bans can enacted
 that overrule these permits.

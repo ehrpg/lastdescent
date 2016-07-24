@@ -11,6 +11,7 @@ pages:
     - Races: 'races.md'
     - Perks: 'perks.md'
     - Flaws: 'flaws.md'
+    - Equipment: 'equipment.md'
   - Space:
       - Space Flight: 'space/flight.md'
       - Stations: 'space/stations.md'
