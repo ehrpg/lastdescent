@@ -5,7 +5,7 @@ _The blacker the sun, the darker the dawn._
 The Dark Dawn is a population of humans that life on space ships. They wander
 the known systems, without calling any system or planet their home.
 
-# Fleet
+## Fleet
 
 The fleet of the Dark Dawn is huge and considerable, and they call one capital
 vessel the centre of their fleet. The rest are mostly medium vessels that
@@ -15,7 +15,7 @@ their leadership, an elected council of elders.
 Their main fleet never breaks up, and only rarely do support ships leave the
 side of the Black Sun.
 
-# Laws
+## Laws
 
 The Dark Dawn does not recognise or follow the space treaty of 2038, and instead
 live by their own rules and laws.
@@ -33,7 +33,7 @@ de-facto slaves and prisoners of the community. Although they have the chance
 to buy themselves free, they rarely get the chance to leave to acquire the
 contribution necessary to buy themselves free.
 
-# Trade
+## Trade
 
 The Dark Dawn foremost are traders. It doesn't matter if the goods are
 considered illegal. The Dark Dawn are also known as slave traders.
@@ -42,7 +42,7 @@ Many lone elements of the Dark Dawn are also known to dabble in piracy, and
 theft, especially if they still have to make the contribution to the community
 before being accepted.
 
-# Feuds
+## Feuds
 
 The IPA has classified the Dark Dawn as 'organised crime' and thus openly oppose
 the Dark Dawn. While the Dark Dawn avoids any direct confrontations with the
