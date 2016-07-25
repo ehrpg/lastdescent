@@ -1,5 +1,12 @@
 # Equipment
 
+## Miscellaneous
+
+| Name              | Description | Weight | Cost
+|-------------------|-------------|--------|-----
+| Suspension Fluid  | 100 litres of suspension fluid for one pod | 120kg | 10000
+| PDA               | Personal PDA, hacking DC 8 | 0.4 | 1000
+
 ## Permits
 
 Permits and forms allow characters to carry around, purchase, or operate certain
