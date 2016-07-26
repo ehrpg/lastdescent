@@ -12,8 +12,8 @@ the station. The outside of the station can only be visited with space suits.
 
 ## Operation
 
-The Venusian station is operated by Zeiss-Yahari. The security is handled by
-a private security firm, a subsidiary of Zeiss-Yahari. It is used to study
+The Venusian station is operated by SART. The security is handled by
+a private security firm, a subsidiary of SART. It is used to study
 the atmosphere of Venus, and extracts gas, minerals and other useful resources
 from Venus. It is also an advanced research facility.
 

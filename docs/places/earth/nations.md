@@ -24,8 +24,9 @@ front of research, space exploration, living standards, social development and
 corporate cooperation.
 
 This deal bore fruit in 2062 as the just recently merged Zeiss and Yahari
-corporations created the first viaable faster than light space drive. It was
-colloquially named after the FTL drive in _Star Trek_ franchise: Warp.
+corporations (now under the name SART) created the first viaable faster than
+light space drive. It was colloquially named after the FTL drive in _Star
+Trek_ franchise: Warp.
 
 In the aftermath of this huge breakthrough for the human race, the European
 Union and its trade partners in Asia created the European and Asian Coalition.

@@ -1,9 +1,9 @@
 # Premise
 
-We write the year 2112 and fifty years (2062) ago the corporation Zeiss-Yahari
-(often shortened to ZY) invented the warp drive. A way for humans to travel
-into the final frontier. Quickly after the advent of this drive, all nations
-increased their effort in space exploration.
+We write the year 2112 and fifty years (2062) ago the conglomerate SART
+invented the warp drive. A way for humans to travel into the final
+frontier. Quickly after the advent of this drive, all nations increased their
+effort in space exploration.
 
 # Major Powers
 
@@ -16,10 +16,10 @@ Earth meanwhile is ruled by three large factions: The United Americas (UA),
 European and Asian Coalition (EAC) and the African Union (AU). All those three
 together represent the interests of Earth as the United Nations.
 
-The most prominent corporations are Zeiss-Yahari, a large German and Japanese
-based vessel manufacturer, Jengur and Xu corporation are large pharmaceutical
-corporations based in the African Union, and the PS Holding as the
-largest bank, credit giver and issuer of insurances.
+The most prominent corporations are SART, a large German and Japanese based
+vessel manufacturer, Jengur and Xu corporation are large pharmaceutical
+corporations based in the African Union, and the PS Holding as the largest
+bank, credit giver and issuer of insurances.
 
 Years prior the invention of the warp drive (in 2053) the United Nations
 established a research station on Mars. Since the advent of the warp drive, and
