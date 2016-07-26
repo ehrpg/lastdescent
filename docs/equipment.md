@@ -1,5 +1,50 @@
 # Equipment
 
+## Drugs
+
+Drugs can be consumed to gain a temporary benefit, yet are highly addictive.
+The first table lists all drugs that have a benefit upon consumption, and the
+second table lists other drugs that are mainly traded and dealt to addicts.
+After effects kick in when the main effect end. The effects of drugs do not
+stack with each other, and taking different or the same drug multiple times only
+add more after effects. Prices are for one dose.
+
+| Name       | Description    | Effects   |  After Effects  | Cost
+|------------|----------------|-----------|----------|---------
+| Speed      | -              | +1 Perception for 6 hours, stops tiredness | -  | 600
+| Red Eye  | Highly specialised combat drug | +1 Per and +1 Dex for 4 hours | Tiredness, exhausted and 1 HP lost | 1200
+| Blood Eye | Improved Red Eye | +2 Per and +2 Dex for 4 hours | Tiredness, exhaustion, addiction and 1d4 HP lost | 2500
+| Saat      | Used in doping   | +1 STR and +1 CON for 8 hours | Highly addictive,
+-1 Dex and -1 Int for 24 hours | 1500
+
+Red Eye and Blood Eye come in small vials and is sprayed into the eye. One vial
+has five usages before being empty. Consuming the entire vile in one go, results
+in a deadly overdose.
+
+Saat is a pill and is often eaten, or made into a powder and drunk.
+
+## Healing Equipment
+
+Wound gel is put over open wounds to stop bleeding and avoid infection. A
+doctor can still easily remove it and then tend to the wounds. Wound foam is
+used on open and with internal wounds and stops internal bleeding. It is used
+in combat to temporarily stabilise the patient until they can reach a medical
+doctor. It lasts for 24 hours, after which the patient begins to lose HP and
+accumulate wounds as normal.
+
+An adrenaline shot (or combat shot) allows a character to "ignore" 2d4 HP for
+the next six hours. Adrenaline and combat shot are addictive, and extended use
+might result in a dependency.
+
+| Name              | Description    | Weight | Cost
+|-------------------|----------------|--------|------
+| Wound gel         | Heals 1 wound  | 0.2    | 750
+| Wound foam        | Stops HP and wounds for 24 hours | 0.4 | 1500
+| Adrenaline shot   | Heals 2d4 HP, lasts 6 hours | 0.2 | 500
+| Combat shot       | Heals 2d8 HP, lasts 6 hours | 0.2 | 1000
+| First Aid Kit     | Heals 1 wound, 1d4 HP +2 to _first aid_ and _medicine_ | 0.5 | 500
+| Medic Kit         | Heals 2 wounds, 2d4 HP +4 to _first aid_ and _medicine_ | 1.2 | 1000
+
 ## Miscellaneous
 
 | Name              | Description | Weight | Cost
