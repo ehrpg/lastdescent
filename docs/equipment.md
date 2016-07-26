@@ -45,11 +45,16 @@ might result in a dependency.
 | First Aid Kit     | Heals 1 wound, 1d4 HP +2 to _first aid_ and _medicine_ | 0.5 | 500
 | Medic Kit         | Heals 2 wounds, 2d4 HP +4 to _first aid_ and _medicine_ | 1.2 | 1000
 
-## Miscellaneous
+## Vessel Items
 
 | Name              | Description | Weight | Cost
 |-------------------|-------------|--------|-----
 | Suspension Fluid  | 100 litres of suspension fluid for one pod | 120kg | 10000
+
+## Miscellaneous
+
+| Name              | Description | Weight | Cost
+|-------------------|-------------|--------|-----
 | PDA               | Personal PDA, hacking DC 8 | 0.4 | 1000
 
 ## Permits
