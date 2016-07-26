@@ -48,12 +48,13 @@ often kept only for recreational purposes.
 _Never underestimate the bandwidth of a fleet of haulers hurling down the
 highway_
 
-The earth's internet hit a barrier in reaching the furthest reaches of space.
-While the technology was brought to all stations and planets, they are not
-interlinked with each other.
+The earth's internet hit a barrier in reaching the furthest reaches of space,
+namely other star systems.  While the technology was brought to all stations
+and planets, they are only interlinked with each other within the same solar
+system.
 
-Data is transferred by hauling data storage units by ship from one point to
-another. A business has formed around need, were so called data haulers offer
-their services in transporting data from one place to another. Likewise pirates
-have targeted these haulers, to steal it. Potentially to find something which
-incriminates the owners.
+Data is transferred by hauling data storage units by ship from one solar
+system to another. A business has formed around this need, were so called data
+haulers offer their services in transporting data from one place to
+another. Likewise pirates have targeted these haulers, to steal
+it. Potentially to find something which incriminates the owners.
