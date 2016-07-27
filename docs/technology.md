@@ -16,6 +16,24 @@ be stolen that easily.
 As with everything, a lucrative illegal business sprung up that deals in the
 manipulation, removal or swapping of such UPID chips and passes.
 
+## Credits
+
+Credits in Last Descent is an inter-system currency that is linked 1:1 to the
+Euro. Other major currencies are the USD which is also bound to Credit in 1:2
+fashion, so 2 USD are one 1 Credit. Credit can be used instead of the local
+currency on most stations and nations.
+
+The most common way of paying are cash cards. They are preloaded with a given
+amount of value on them, and can be used as a debit card until they are empty.
+Credit Cards also exist, and are usually linked with a bank account. Paper
+currency still exists as well, but is rarely used anymore except on a few
+stations and outposts that do not have a reliable way to process cash cards or
+credit cards. The paper currency equivalent of Credits are either Euro or USD.
+
+All PDAs are capable of depositing and removing money from cash and credit
+cards. Money rewards, prices and sometimes salaries are often given out in
+the form of cash cards.
+
 ## PDAs
 
 The PDAs of Endless Horizons are the newest and latest models of smart phones.

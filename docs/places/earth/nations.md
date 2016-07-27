@@ -1,3 +1,5 @@
+# Earth Nations
+
 Earth's nations remain mostly unchanged. However the need for larger
 cooperations and budgets for space exploration has driven forward the concept
 of nationes united in one banner.
@@ -14,7 +16,7 @@ overpopulated.
 Pollution, rising poverty, the destruction of nature and the ever growing power
 of large corporations is an everlasting concern for the citizens of earth.
 
-# European and Asian Coalition
+## European and Asian Coalition
 
 In 2044 Russia joined, as the last independent country of Europe, the European
 Union. The EU, with the help of Russia, then began to seek closer ties with
@@ -37,7 +39,7 @@ The government form of the EAC has been unchanged from its precursor the
 European Union, and the new countries have simply been 'added' as new members
 of the EAC.
 
-# United Americas
+## United Americas
 
 The United Americas consists of all of the nations of the northern as well as
 the southern Americas. After the trade deals between Europe and Asia, the USA
@@ -55,7 +57,7 @@ electrical power as fuel. Together with the fusion cores researched at ITER,
 this allowed NASA and ESA to undertake more advanced space missions. The Feynman
 Drive is still in use on all space vessels.
 
-# African Union
+## African Union
 
 The African Union achieved economical and societal stability in the early
 21st century. Together with partners in the Arabic, European and Asian world
@@ -67,7 +69,7 @@ corporations responsible for these vaccines, Jengur and Xu Holdings are now
 the largest on Earth, having taken over most of their competitors in America,
 Europe, and Asia.
 
-# United Nations
+## United Nations
 
 The EAC, United Americas and the African Union together still meet and work
 together under the mantle of the United Nations. The United Nations is also
