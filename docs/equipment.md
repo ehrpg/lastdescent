@@ -95,4 +95,6 @@ by authorities.
 | Permit 39  | Allows owning and carrying of military grade weapons | 500000
 | Pilot's licence | Allows owning and flying of space craft | 75000
 | Driver's licence | Allows owning and driving of vehicles | 4000
-| Trader's permit | Allows trading and hauling large quantities of goods | 10000
+| Trader's licence | Allows trading and hauling large quantities of goods | 10000
+| Mercenary's licence | Gives special privileges in terms of carrying weapons, and protecting civilians | 25000
+| Bounty Hunter's licence | Gives special privileges in terms of carrying weapons, and allows to turn in criminals for rewards | 10000
