@@ -33,6 +33,7 @@ pages:
       - Ceres: 'places/stations/ceres.md'
       - Rhea: 'places/stations/rhea.md'
       - Venus: 'places/stations/venus.md'
+      - Ganymede: 'places/stations/ganymede.md'
   - Factions:
       - Dark Dawn: 'factions/darkdawn.md'
       - IPA: 'factions/ipa.md'
