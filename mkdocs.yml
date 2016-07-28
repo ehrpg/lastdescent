@@ -34,6 +34,7 @@ pages:
       - Rhea: 'places/stations/rhea.md'
       - Venus: 'places/stations/venus.md'
       - Ganymede: 'places/stations/ganymede.md'
+      - Pluto: 'places/stations/pluto.md'
   - Factions:
       - Dark Dawn: 'factions/darkdawn.md'
       - IPA: 'factions/ipa.md'
