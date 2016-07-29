@@ -67,12 +67,20 @@ _Never underestimate the bandwidth of a fleet of haulers hurling down the
 highway_
 
 The earth's internet hit a barrier in reaching the furthest reaches of space,
-namely other star systems.  While the technology was brought to all stations
-and planets, they are only interlinked with each other within the same solar
-system.
+namely other star systems.  While the technology was brought to all stations,
+ships and planets, they are only interlinked with each other within the same
+solar system.
 
 Data is transferred by hauling data storage units by ship from one solar
 system to another. A business has formed around this need, were so called data
 haulers offer their services in transporting data from one place to
 another. Likewise pirates have targeted these haulers, to steal
 it. Potentially to find something which incriminates the owners.
+
+On newer models of the sensor array (Sensor Array MK III in any size category)
+it is possible to send information across warp, but the information still takes
+some time to reach its destination. In warp the radio waves used for
+communication travel with a speed of 20 parsecs a year.
+
+Due to this delay, email as resurfaced as the main means of making contact with
+another across solar systems.
