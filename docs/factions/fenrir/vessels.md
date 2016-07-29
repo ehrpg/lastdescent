@@ -21,7 +21,7 @@ civilian version, that comes with point defence only.
 - Fuel Capacity: 60
 - Unit Price: 450k Credits
 - Cargo: 300 tons
-- Armour:
+- Armour: 14
 - Modules (medium): Sublight Engine MK III, Medium Armour MK III, Medium Power Core MK III, Medium Sensor Array MK II, Security System MK III, Railgun MK III, PD MK III x 4, Battery MK I x 2, Launcher MK II x 2
 - FTL: Warp
 
@@ -41,8 +41,8 @@ but makes up for it with superior speed.
 - Weight: 160 tons
 - Speed: 7
 - Fuel Capacity: 60
-- Unit Price: 450k Credits
+- Unit Price: 450 000 Credits
 - Cargo: 300 tons
-- Armour:
+- Armour: 10
 - Modules (medium): Sublight Engine MK III, Medium Armour MK II, Medium Power Core MK III, Medium Sensor Array MK II, Security System MK III, PD MK III x 4
 - FTL: Warp
