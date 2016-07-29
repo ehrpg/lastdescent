@@ -53,6 +53,10 @@ host and take weeks or even months to finish (depending on the size). Cloned
 limbs are the more expensive (but more authentic) alternative to artificial
 limbs.
 
+Artificial limbs cannot be detached from the body.  They are directly crafted
+onto nerves and skin, and replacing them means another surgery to remove the
+old and reattach the new limb.
+
 | Name        | Description    | Penalties   | Weight |  Cost
 |-------------|----------------|-------------|--------|----------
 | Artificial Hand MK I    | Robotic hand | -3 Dex, +1 Str | 4 | 35000
