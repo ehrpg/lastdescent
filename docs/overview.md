@@ -1,11 +1,13 @@
-# Premise
+# Overview
+
+## Premise
 
 We write the year 2112 and fifty years (2062) ago the conglomerate SART
 invented the warp drive. A way for humans to travel into the final
 frontier. Quickly after the advent of this drive, all nations increased their
 effort in space exploration.
 
-# Major Powers
+## Major Powers
 
 The world of Fallen Descent is ruled by large corporations who profit of the
 vast riches space has to offer. They mine asteroids, supply the ever increasing
@@ -40,7 +42,7 @@ Final Frontier Conglomerate (FFC), a conglomerate involving both major companies
 the FMR and the United Nations. The new colony currently houses 32000
 people in total.
 
-# Space Treaty of 2034
+## Space Treaty of 2034
 
 The Space Treaty of 2034 regulates the construction, maintenance of space
 stations; provides and handles rules for citizen ship rights for space born
