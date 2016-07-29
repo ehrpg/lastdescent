@@ -48,18 +48,20 @@ All PDAs are by default encrypted.
 |-------|------|--------|-------------
 | PDA   | 1000 | 0.4    | 8
 
-## Energy
+## Electricity as Fuel
 
 With the rise of better battery technology, electricity has taken over mankind's
-technology. Electricity is used to power cars, helicopters, almost all
-appliances. All aircraft use some sort of high yield Ion Engine.
+technology. Electricity is used to power cars, helicopters, vessels and almost
+all appliances. All aircraft and vessels use the Feynman Drive, a high yield Ion
+Engine, as their sublight engine.
 
 After the successful completion of ITER in 2028 fusion engines became more and
-more widespread.
+more widespread. Fusion cores are used, as Power Cores, on all ships and vessels
+for power.
 
 This has lead the price of fossil fuels (oil, diesel, gas) to drop drastically.
 While vehicles with internal combustion engines still exists, they are most
-often kept only for recreational purposes.
+often kept only for recreational purposes or because of sentimental value.
 
 ## Internet
 
