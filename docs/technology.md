@@ -84,3 +84,66 @@ communication travel with a speed of 20 parsecs a year.
 
 Due to this delay, email as resurfaced as the main means of making contact with
 another across solar systems.
+
+## Food
+
+Food has largely shifted towards an all vegetarian diet. With the dwindling
+living space and nature on Earth, and the massive increase in population in
+the solar system, meat has become expansive. Only the rich can afford meat on
+a regular basis, with the moderately rich being able to afford meat once or
+twice a month. Meat alternatives exist, being made from soy or grown
+artificially in a laboratory.
+
+## Cloning
+
+Cloning has been perfected over the last decades. It became cheap enough to be
+heavily used on live stock. Cloning humans however is strictly forbidden, with
+the cloning of human body parts (for emergencies) being the only exception. The
+only thing that cannot be successfully cloned (or at least not without many
+failures and set backs) is the human brain.
+
+## Reconstructive Surgery
+
+While cloning human body parts (for reconstructive surgery) is possible and
+allowed, it is tremendously expensive. A reconstructed human hand costs
+between 9 and 15 million credits. An entire arm 25 million credits and
+above. Organs also cost between 5 and 10 million credits. This cloning process
+is not error free, and if complications arise the price also rises. Everything,
+except for the brain, can be cloned however. This also includes muscles and
+skin, for example to repair burnt or otherwise scarred tissue or body parts.
+
+Attaching a cloned limb is usually done by the company that created it, but
+the surgery DC is 15 and the operation usually takes 4 hours.
+
+The cheaper alternative are artificial limbs, created with advanced robotics.
+Depending on the price and the model these limbs range from clumsy and heavy,
+to almost perfect. All doctors are trained in attaching these limbs, and most
+mechanics are capable of servicing them in case they get damaged.
+
+Artificial limbs behave just like normal limbs (they can be targeted, shot and
+damaged) but may incur additional penalties or bonuses. While they require
+power to function, it is usually too much hassle to track this rules wise.
+Their weight however, gets added normally to the carrying weight of the
+character. Attaching an artificial limb is a surgery check DC 10 and takes
+roughly 2 hours.
+
+## Robots and Droids
+
+Robotics has made a major leap forward in the past century. Robots exist in
+various shapes, forms and sizes and are used extensively for manual labour.
+Robots can now walk on two legs reliably, take simple orders and communicate
+in simple terms verbally. They are far from being sentient however, and can
+not be used for more complex tasks. Almost all robots can also be used remotely,
+for example to repair hull damage without actually leaving the ship or douse
+flames without having to expose oneself to heat and toxic gases. Robots come
+in as many shapes as the tasks they have to perform. From heavy tracked
+automated land moves, to small and agile welding robots.
+
+Armed security robots do exist, and are heavily used by corporations and other
+private ventures. They are armed, heavily armoured, and often follow and
+enforce a strict protocol.
+
+Droids are simply robots that have been built to mimic a human, and are often
+used in roles where they come in contact with humans. For example, most stations
+and planetary stations use droids as tourist guides. Droids are also used as
+house hold robots, where they might have to welcome guests.

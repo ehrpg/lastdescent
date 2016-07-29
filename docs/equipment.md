@@ -45,6 +45,34 @@ might result in a dependency.
 | First Aid Kit     | Heals 1 wound, 1d4 HP +2 to _first aid_ and _medicine_ | 0.5 | 500
 | Medic Kit         | Heals 2 wounds, 2d4 HP +4 to _first aid_ and _medicine_ | 1.2 | 1000
 
+## Reconstructive Surgery
+
+Artificial limbs are robotic limbs that range from heavy and clumsy, to almost
+perfect. Cloned limbs are created from the DNA and stem cells of the actual
+host and take weeks or even months to finish (depending on the size). Cloned
+limbs are the more expensive (but more authentic) alternative to artificial
+limbs.
+
+| Name        | Description    | Penalties   | Weight |  Cost
+|-------------|----------------|-------------|--------|----------
+| Artificial Hand MK I    | Robotic hand | -3 Dex, +1 Str | 4 | 35000
+| Artificial Hand MK II   | Advanced robotic hand | -2 Dex, +1 Str | 3 | 50000
+| Artificial Hand MK III  | Top of the line robotic hand | -1 Dex, +1 Str | 2 | 100000
+| Artificial Arm MK I     | Robotic arm | 15 | 20000
+| Artificial Leg MK I     | Robotic leg | -2 Running, Climbing, Acrobatics, +5 kg carrying capacity | - | 25000
+| Artificial Leg MK II    | Advanced robotic leg | -1 Running, Climbing, Acrobatics, +5 kg carrying capacity | - | 50000
+| Artificial Leg MK III   | Top of the line robotic leg | +1 Running, Climbing, Acrobatics, +5 kg carrying capacity | - | 150000
+
+| Name        |  Time     | Cost
+|-------------|-----------|-------
+| Cloned Hand | 3-4 Weeks | 9-15 Million
+| Cloned Arm  | 2 Months  | >25 Million
+| Cloned Foot | 2-3 Weeks | 8-10 Million
+| Cloned Leg  | 1-2 Months| >20 Million
+| Cloned Organ| 2-4 Weeks | 5-10 Million
+| Cloned Eye  | 4 Weeks   | 15-25 Million
+| Cloned Skin | 1-4 Days  | 1-4 Million
+
 ## Vessel Items
 
 | Name              | Description | Weight | Cost
