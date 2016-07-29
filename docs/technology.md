@@ -59,6 +59,13 @@ After the successful completion of ITER in 2028 fusion engines became more and
 more widespread. Fusion cores are used, as Power Cores, on all ships and vessels
 for power.
 
+While solar power has been improved and is available on most vessels, it only
+generates enough electricity to keep basic systems up and running. The core of
+a small or medium vessel may be recharged with solar power, but that can take
+up to several months or even years. Nevertheless some pilots have managed to
+go into stasis while their ships recharge just enough, by using solar power,
+to give them enough velocity to hurl them towards a nearby space station.
+
 This has lead the price of fossil fuels (oil, diesel, gas) to drop drastically.
 While vehicles with internal combustion engines still exists, they are most
 often kept only for recreational purposes or because of sentimental value.
