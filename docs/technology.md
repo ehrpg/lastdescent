@@ -48,7 +48,7 @@ All PDAs are by default encrypted.
 |-------|------|--------|-------------
 | PDA   | 1000 | 0.4    | 8
 
-## Electricity as Fuel
+## Electricity
 
 With the rise of better battery technology, electricity has taken over mankind's
 technology. Electricity is used to power cars, helicopters, vessels and almost
@@ -69,6 +69,14 @@ to give them enough velocity to hurl them towards a nearby space station.
 This has lead the price of fossil fuels (oil, diesel, gas) to drop drastically.
 While vehicles with internal combustion engines still exists, they are most
 often kept only for recreational purposes or because of sentimental value.
+
+### Deuterium
+
+Deuterium, most often shipped and sold in the form of heavy water, is used as
+the fuel for the fusion cores. The deuterium is refined and sold on all planets
+and stations. Earth is the biggest exporter of deuterium, as it is found
+naturally in the oceans. Other stations mine asteroids or the subsurface lakes
+of their host planets for deuterium.
 
 ## Internet
 
