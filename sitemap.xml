@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
      <loc>None/overview/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/technology/</loc>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -21,19 +29,25 @@
         
     <url>
      <loc>None/races/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/perks/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/flaws/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/equipment/</loc>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -43,13 +57,19 @@
         
     <url>
      <loc>None/space/flight/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/space/stations/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/space/laws/</loc>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -59,13 +79,13 @@
         
     <url>
      <loc>None/places/earth/nations/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/places/earth/vessels/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -75,19 +95,25 @@
         
     <url>
      <loc>None/places/mars/history/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/places/mars/planet/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/places/mars/fmr/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/mars/vessels/</loc>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -97,7 +123,19 @@
         
     <url>
      <loc>None/places/kepler/planet/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/kepler/history/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/kepler/colony/</loc>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -107,13 +145,83 @@
         
     <url>
      <loc>None/places/stations/ceres/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/places/stations/rhea/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/stations/venus/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/stations/ganymede/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/stations/pluto/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/places/stations/opus/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/factions/darkdawn/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/factions/crime/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/factions/syndicate/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/factions/sart/</loc>
+     <lastmod>2016-07-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/factions/fos/</loc>
+     <lastmod>2016-07-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
