@@ -73,7 +73,7 @@ such claims.
 
 # Space Station OSIRIS
 
-The FMR also runs and operaters a large [space station](/places/mars/osiris)
+The FMR also runs and operates a large [space station](/places/mars/osiris)
 in orbit around Mars.
 
 # Terraforming
