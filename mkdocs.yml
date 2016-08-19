@@ -36,6 +36,7 @@ pages:
       - Ganymede: 'places/stations/ganymede.md'
       - Pluto: 'places/stations/pluto.md'
       - Opus: 'places/stations/opus.md'
+      - Osiris: 'places/mars/osiris.md'
   - Factions:
       - Dark Dawn: 'factions/darkdawn.md'
       - IPA:

@@ -73,9 +73,8 @@ such claims.
 
 # Space Station OSIRIS
 
-The FMR has one space station in orbit of Mars called OSIRIS, which is often
-cited as the eighth city of Mars. The station is responsible for ship
-maintenance, docking and also houses a military substation of the IPA.
+The FMR also runs and operaters a large [space station](/places/mars/osiris)
+in orbit around Mars.
 
 # Terraforming
 
